@@ -9,7 +9,7 @@
 
 ### Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enilson100&layout=default&theme=radical)](https://github.com/enilson100/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enilson100&layout=default&theme=radical)](https://github.com/enilson100/github-readme-stats)<br>
 
 ### Tecnologias
 <div style="display:inline_block"><br>
