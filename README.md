@@ -19,5 +19,5 @@
 
 <img align="center" alt="Enilson_hmtl" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img align="center" alt="Enilson_hmtl" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Enilson_hmtl" heigth="40" width="50" style="backgroung_color:green" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="center" alt="Enilson_hmtl" heigth="40" width="50" style="fill:green" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 
