@@ -25,6 +25,6 @@
 <img align="center" alt="Enilson_hmtl" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 <div align="center">
-<a  href="https://github.com/enilson100/github-readme-activity-graph"><img  alt="Gráfico de atividades "/>
+<a  href="https://github.com/enilson100/github-readme-activity-graph">
 </a>
 </div>
