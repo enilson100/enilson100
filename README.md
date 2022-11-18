@@ -10,8 +10,9 @@
 ### Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enilson100&layout=default&theme=radical)](https://github.com/enilson100/github-readme-stats)<br>
-
-                                             ### Tecnologias
+<p align="center">
+### Tecnologias
+</p>
 <div style="display:inline_block" align="center">
 <img align="center" alt="Enilson_hmtl" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" alt="Enilson_hmtl" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
