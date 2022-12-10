@@ -27,5 +27,5 @@
 </div>
 <br>
 <p align="left">
-<a href="https://github.com/enilson100/github-readme-activity-graph"></a>
+<a href="https://github.com/enilson100/github-readme-activity-graph"> <img src="https://activity-graph.herokuapp.com/graph?username=enilson100&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
