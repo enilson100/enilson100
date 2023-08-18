@@ -7,9 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enilson100&show_icons=true&theme=radical)
 
-### Linguagens
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enilson100&layout=default&theme=radical)](https://github.com/enilson100/github-readme-stats)<br>
 <h1 align="center" style= "heigth="40" width="50"">
  Tecnologias
 </h1>
